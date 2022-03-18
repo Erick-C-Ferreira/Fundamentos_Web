@@ -1,0 +1,30 @@
+h1{
+    color: #7798df;
+    font-size: 43px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section{
+color: blue;
+}
+#img1{
+    width: 50px;
+}
+.imagens{
+    width: 150px;
+    border: 5px #cc5f16 solid;
+    margin: 28px;
+    padding: 10px;
+}
+.container-flex{
+    color: #7798df;
+    display: flex;
+}
+.flex2{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    margin: 5px;
+    margin-bottom: 5px;
+}
+
